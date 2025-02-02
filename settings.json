@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
+    "username": "AvoAFK",
+    "password": "avoafk",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "howtodie124-season-2.aternos.me",
+    "port": 32375,
     "version": "1.19.3"
   },
 
